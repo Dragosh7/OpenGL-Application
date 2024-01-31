@@ -1,0 +1,8 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1857 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : warning LNK4286: symbol 'glewInit' defined in 'libglew32d.lib(glew.obj)' is imported by 'Window.obj'
+LINK : warning LNK4286: symbol 'glewExperimental' defined in 'libglew32d.lib(glew.obj)' is imported by 'Window.obj'
+  ProiectPG.vcxproj -> T:\an3\sem1\PG\ProiectPG\x64\Release\ProiectPG.exe

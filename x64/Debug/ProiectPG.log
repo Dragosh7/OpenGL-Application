@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+T:\an3\sem1\PG\OpenGLproject\OpenGL dev libs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+T:\an3\sem1\PG\ProiectPG\main.cpp(81,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(198,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(199,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(203,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(204,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(205,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(206,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(753,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(754,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(759,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(760,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(765,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+T:\an3\sem1\PG\ProiectPG\main.cpp(766,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ProiectPG.vcxproj -> T:\an3\sem1\PG\ProiectPG\x64\Debug\ProiectPG.exe
